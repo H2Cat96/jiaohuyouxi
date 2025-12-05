@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Deer Alphabet Tracing",
+  "description": "An interactive educational game where kids trace letters, unlock animations, and hear pronunciation using Gemini TTS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
